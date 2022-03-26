@@ -15,6 +15,7 @@ int main(){
 
 		%d > integers  ("%i" can be used instead of "%d" but it is not advised)
 		%s > string  
+		%f > floating point numbers
 
 
 	*/
